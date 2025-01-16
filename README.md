@@ -2,7 +2,7 @@
 
 This project is a real-time cryptocurrency price monitor built using an ESP32 microcontroller and LCD display. It fetches cryptocurrency data via the Coin Market Cap API, displays the current price and price changes on an LCD, and updates an LED indicator when the price changes.
 
-![LCD](https://via.placeholder.com/800x400.png?text=Circuit+Diagram)
+![LCD](Display.png)
 
 
 ## Features
