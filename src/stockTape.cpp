@@ -13,8 +13,8 @@ const int ledPin = 14; // Led pin
 float previousPrice = 0;
 
 // Wifi name and pass
-const char *ssid = "nachowifi";
-const char *password = "nachotaco";
+const char *ssid = "wifissid";
+const char *password = "wifipass";
 String payload = "";
 
 // Function that resets the ldc display
