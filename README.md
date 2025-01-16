@@ -55,7 +55,7 @@ const char *password = "your_wifi_password";
 
 ### Circuit Diagram
 
-![CircuitDiagram](https://via.placeholder.com/800x400.png?text=Circuit+Diagram)
+![CircuitDiagram](Circuit.png)
 
 ## Example Output
 
