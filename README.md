@@ -79,6 +79,3 @@ Percentage Change (24h): +2.78%
 - Add support for multiple cryptocurrencies.
 - Implement user input for selecting cryptocurrencies.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
