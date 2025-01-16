@@ -1,4 +1,4 @@
-//include librarys
+// Include the librarys
 #include <LiquidCrystal.h>
 #include <Arduino.h>
 #include <WiFi.h>
